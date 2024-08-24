@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "license": "MIT",
   "author": {
-    "name": "Lauri Räsänen"
+    "name": "nullprop"
   },
   "dependencies": {
     "fluent-ffmpeg": "^2.1.2",
